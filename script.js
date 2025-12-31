@@ -40,7 +40,7 @@
          duration: 0.5,
          stagger: 0.2,
      })
-     gsap.from("#page1 #video-container", {
+     gsap.from("#page1 #img-container", {
          scale: 0.9,
          opacity: 0,
          delay: 1.0,
